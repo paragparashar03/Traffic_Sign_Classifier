@@ -14,6 +14,8 @@ scikit-learn
 TensorFlow
 Matplotlib
 Pandas (Optional)
-Run this command at the terminal prompt to install OpenCV. Useful for image processing:
 
-conda install -c https://conda.anaconda.org/menpo opencv3
+DATASET:
+Already a pickle file:
+
+https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip
